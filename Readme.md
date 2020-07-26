@@ -1,9 +1,9 @@
-#Google and Facebook Login
+# Google and Facebook Login
 
 Asp.Net Core MVC with Google and Facebook authentication.
 Content created using this video reference: https://www.youtube.com/watch?v=YSKqZcS6PLg
 
-##Dependencies
+## Dependencies
 
 Google: Create an App on https://console.developers.google.com/
 Facebook: Create an App on https://developers.facebook.com/
@@ -11,7 +11,7 @@ NugetPackages:
 	- Microsoft.AspNetCore.Authentication.Google
 	- Microsoft.AspNetCore.Authentication.Facebook
 
-##Used Commands
+## Used Commands
 Google and Facebook:
 All the information was stored in user-secrets using the commands bellow (Package Manager Console):
              
