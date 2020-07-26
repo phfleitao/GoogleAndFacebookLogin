@@ -28,6 +28,8 @@ namespace GoogleAndFacebookLogin
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             /*
+             Reference: https://www.youtube.com/watch?v=YSKqZcS6PLg 
+             
              - na pasta do projeto
              cmd: dotnet watch run 
 
