@@ -20,4 +20,4 @@ All the information was stored in user-secrets using the commands bellow (Packag
 3) dotnet user-secrets set "App:GoogleClientSecret" "Valor do Google Client Secret" --project GoogleAndFacebookLogin  
 4) dotnet user-secrets set "App:FacebookClientId" "Valor do Facebook Client Id" --project GoogleAndFacebookLogin  
 5) dotnet user-secrets set "App:FacebookClientSecret" "Valor do Facebook Client Secret" --project GoogleAndFacebookLogin  
-6) dotnet user-secrets list --project GoogleAndFacebookLogin  
+6) dotnet user-secrets list --project GoogleAndFacebookLogin 
